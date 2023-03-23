@@ -68,6 +68,4 @@
             <url>https://maven.timo.cloud/repository/TimoCloud-API/</url>
         </snapshotRepository>
     </distributionManagement>
-
-
 </project>
